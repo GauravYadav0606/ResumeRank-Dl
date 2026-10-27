@@ -34,7 +34,7 @@ ResumeRank/
 
 ## 🌐 Try the Live Demo
 
-**Live Application:** Add your deployed Streamlit app URL here.
+**Live Application:** https://resumerank-dl-qdhbqpqyjdtzkmtrhohxgr.streamlit.app/
 
 The live demo will be available after the application is successfully deployed on Streamlit Community Cloud.
 
