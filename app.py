@@ -11,7 +11,6 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 # ==================================================
 # RESUMERANK
-# Author: Gaurav Yadav
 # ==================================================
 st.set_page_config(
     page_title="ResumeRank",
@@ -553,12 +552,3 @@ with analytics_tab:
         st.caption(
             "Review the original resumes and evaluate candidates fairly."
         )
-
-
-# ==================================================
-# AUTHOR FOOTER
-# ==================================================
-st.markdown(
-    '<div class="author-footer">Developed by Gaurav Yadav</div>',
-    unsafe_allow_html=True
-)
